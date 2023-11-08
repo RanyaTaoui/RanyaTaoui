@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ranya Taoui</h1>
-<h3 align="center">A passionate frontend backend developer from Morocco</h3>
-
+<h3 align="center">A passionate frontend backend developer from Morocco.</h3>
 <img align='right' alt='coding' width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/be031f8d02ca8cc404d44be54ee2c493.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranyataoui&label=Profile%20views&color=0e75b6&style=flat" alt="ranyataoui" /> </p>
 
 - 🌱 I’m currently learning **ML && DM**
@@ -12,7 +10,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://kaggle.com/g2_taoui_ranya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="g2_taoui_ranya" height="30" width="40" /></a>
-<a href="https://fb.com/anas zakari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anas zakari" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -23,3 +20,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ranyataoui&show_icons=true&locale=en" alt="ranyataoui" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranyataoui&" alt="ranyataoui" /></p>
+
